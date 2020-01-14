@@ -1,4 +1,4 @@
 # IonicCRUDfireBase
 
 instalar modulos de firebase
-npm install firebase angularfire2
+# npm install firebase angularfire2
